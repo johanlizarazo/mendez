@@ -1,0 +1,61 @@
+# Productos de Belleza
+
+## 1. Crema Hidratante Facial
+- Marca: GlowSkin
+- Descripción: Crema hidratante con ácido hialurónico para piel seca.
+- Variaciones:
+  - 50ml ($15.99)
+  - 100ml ($25.99)
+- Ingredientes: Ácido hialurónico, aloe vera, vitamina E.
+- Uso recomendado: Aplicar por la mañana y noche sobre la piel limpia.
+
+## 2. Labial Mate de Larga Duración
+- Marca: BelleLips
+- Descripción: Labial mate de alta pigmentación y duración de hasta 12 horas.
+- Variaciones:
+  - Rojo pasión ($9.99)
+  - Nude suave ($9.99)
+  - Fucsia intenso ($9.99)
+- Ingredientes: Aceite de coco, cera de abeja, pigmentos naturales.
+- Uso recomendado: Aplicar sobre los labios limpios y secos.
+
+## 3. Serum Reafirmante Antiedad
+- Marca: EternalGlow
+- Descripción: Serum con colágeno y retinol para reducir arrugas y mejorar la elasticidad.
+- Variaciones:
+  - 30ml ($19.99)
+  - 50ml ($29.99)
+- Ingredientes: Retinol, colágeno, vitamina C.
+- Uso recomendado: Aplicar de noche antes de la crema hidratante.
+
+## 4. Base de Maquillaje Líquida
+- Marca: PerfectSkin
+- Descripción: Base líquida de alta cobertura con acabado natural.
+- Variaciones:
+  - Tono Claro ($14.99)
+  - Tono Medio ($14.99)
+  - Tono Oscuro ($14.99)
+- Ingredientes: Ácido hialurónico, extracto de manzanilla, pigmentos minerales.
+- Uso recomendado: Aplicar con esponja o brocha para mejor acabado.
+
+## 5. Protector Solar Facial SPF 50+
+- Marca: SunCare
+- Descripción: Protector solar ligero y no graso, con alta protección UV.
+- Variaciones:
+  - 50ml ($12.99)
+  - 100ml ($19.99)
+- Ingredientes: Óxido de zinc, extracto de té verde, vitamina E.
+- Uso recomendado: Aplicar cada 2 horas cuando se esté expuesto al sol.
+
+# Términos y Condiciones
+- Todos los productos son de uso cosmético y deben usarse según indicaciones.
+- No se aceptan devoluciones por razones de higiene, excepto en caso de defectos de fabricación.
+- Los precios están sujetos a cambios sin previo aviso.
+- Ofertas y promociones aplican solo en compras en línea.
+
+# Información de Envío
+- Envío estándar (3-5 días hábiles): $4.99
+- Envío express (1-2 días hábiles): $9.99
+- Envío gratuito en pedidos superiores a $50.
+- Los tiempos de entrega pueden variar según la ubicación del cliente.
+
