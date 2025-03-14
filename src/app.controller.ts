@@ -10,7 +10,7 @@ import { AppService } from './app.service';
 import { FileInterceptor } from '@nestjs/platform-express';
 import { Ollama } from 'ollama';
 
-const ollama = new Ollama({ host: 'http://localhost:11434' });
+const ollama = new Ollama({ host: 'http://ollama:11434' });
 
 /* eslint-disable */
 @Controller()
