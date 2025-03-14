@@ -41,6 +41,7 @@ export class AppController {
         { role: 'system', content: `Eres un vendedor virtual. Usa la siguiente información para responder: ${knowledgeBase}` },
         { role: 'user', content: message }
       ]
+      console.log(messages);
       const response = await ollama.chat({ model: 'llama3.2', messages, stream: true })
       for await (const part of response) {
         console.log(part.message.content);
